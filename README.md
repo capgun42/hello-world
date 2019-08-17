@@ -1,2 +1,3 @@
 # hello-world
-First Repo
+
+Brand spanking new to coding! Excited to learn!
